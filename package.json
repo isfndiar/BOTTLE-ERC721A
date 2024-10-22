@@ -1,0 +1,12 @@
+{
+  "name": "nft-airunner-erc1155",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Zen Zhou",
+  "license": "MIT",
+  "description": "Images and metadata for nft AIRUNNER"
+}

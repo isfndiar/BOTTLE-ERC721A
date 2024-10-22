@@ -1,0 +1,19 @@
+{
+  "name": "Cyberpunk Bottle #2",
+  "description": "A modern, cyberpunk-themed bottle infused with blockchain elements, representing the fusion of technology and style.",
+  "image": "ipfs://QmYsbjQTJiTujbeoWvPwJh2YYGdnvQUkxSxzEMp5YFVMUX/2.png",
+  "attributes": [
+    {
+      "trait_type": "Design",
+      "value": "Cool"
+    },
+    {
+      "trait_type": "Color",
+      "value": "Eletric Yellow"
+    },
+    {
+      "trait_type": "Bottle shape",
+      "value": "This bottle looks like my grandma"
+    }
+  ]
+}

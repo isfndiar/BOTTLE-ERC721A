@@ -1,0 +1,19 @@
+{
+  "name": "Cyberpunk Bottle #0",
+  "description": "A modern, cyberpunk-themed bottle infused with blockchain elements, representing the fusion of technology and style.",
+  "image": "ipfs://QmYsbjQTJiTujbeoWvPwJh2YYGdnvQUkxSxzEMp5YFVMUX/0.png",
+  "attributes": [
+    {
+      "trait_type": "Design",
+      "value": "Futuristic Geometry"
+    },
+    {
+      "trait_type": "Color",
+      "value": "Electric Purple"
+    },
+    {
+      "trait_type": "bottle shape",
+      "value": "irregular box"
+    }
+  ]
+}
